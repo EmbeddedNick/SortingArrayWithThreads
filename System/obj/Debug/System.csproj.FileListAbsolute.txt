@@ -1,0 +1,7 @@
+C:\Users\Николай\source\repos\System\System\bin\Debug\System.exe.config
+C:\Users\Николай\source\repos\System\System\bin\Debug\System.exe
+C:\Users\Николай\source\repos\System\System\bin\Debug\System.pdb
+C:\Users\Николай\source\repos\System\System\obj\Debug\System.csproj.AssemblyReference.cache
+C:\Users\Николай\source\repos\System\System\obj\Debug\System.csproj.CoreCompileInputs.cache
+C:\Users\Николай\source\repos\System\System\obj\Debug\System.exe
+C:\Users\Николай\source\repos\System\System\obj\Debug\System.pdb
